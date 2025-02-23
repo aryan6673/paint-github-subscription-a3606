@@ -1,0 +1,8 @@
+# Exclude sensitive/development files
+*.env
+*.key
+*.cert
+node_modules/
+.DS_Store
+.idea/
+vendor/
