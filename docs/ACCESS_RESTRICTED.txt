@@ -1,0 +1,18 @@
+██████████████████████████████████████████████████
+█           ACCESS RESTRICTED NOTICE            █
+██████████████████████████████████████████████████
+
+This documentation directory is intentionally empty.
+All project documentation remains proprietary and is:
+
+- Excluded from version control
+- Stored in secure private systems
+- Accessible only to authorized maintainers
+
+Unauthorized documentation requests will be logged
+and may result in legal action under DMCA §1201.
+
+© 2023 aryan6673. License terms apply (see LICENSE).
+──────────────────────────────────────────────────
+Request Exception: contact aryan6673@github
+Verification Hash: [SHA-256 of "restricted-2023"]
