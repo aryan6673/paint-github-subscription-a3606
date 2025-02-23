@@ -25,7 +25,7 @@ Access may be revoked at any time without notice. Upon termination, you must imm
 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE OWNER SHALL NOT BE LIABLE FOR ANY DAMAGES RESULTING FROM USE OF THIS SOFTWARE.
 
 ### 6. Governing Law  
-Any disputes shall be governed by the laws of [Your Jurisdiction].
+Any disputes shall be governed by the laws of India.
 
 ---
 
