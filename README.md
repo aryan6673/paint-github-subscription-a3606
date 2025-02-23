@@ -1,1 +1,1 @@
-# paint-github-subscription-a3606
+# This is a private project
